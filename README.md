@@ -1,4 +1,4 @@
 Leonardo
 ========
 
-A digital image process testbed.
+A digital image process demo.
